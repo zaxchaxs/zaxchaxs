@@ -14,7 +14,7 @@
 
 ### I'm Irzi Rahmatullah.
    
-Currently doing my thing at Singaperbangsa University Karawang. I'm diving into the world of IT, majoring in Computer Science. That's why I'm all about tech, especially software engineering. I'm really into coding. Ever since I started messing around with code, I've been hooked. I've got a knack for problem-solving with lines of code, turning ideas into reality.
+Currently doing my thing at one of the universities. I'm diving into the world of IT, majoring in Computer Science. That's why I'm all about tech, especially software engineering. I'm really into coding. Ever since I started messing around with code, I've been hooked. I've got a knack for problem-solving with lines of code, turning ideas into reality.
 
 <div align="left">
 
