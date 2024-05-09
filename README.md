@@ -1,4 +1,13 @@
-### Hi there 👋
+<div align="center">
+
+[![Hello There, I'm Irzi!](assets/banner.gif)](https://github.com/zaxchaxs)
+
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+
+</div>
+
 
 <!--
 **zaxchaxs/zaxchaxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
