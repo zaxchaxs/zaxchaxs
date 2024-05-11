@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello There, I'm Irzi!](assets/banner2.gif)](https://github.com/zaxchaxs)
+[![Hello There, I'm Irzi!](assets/header.gif)](https://github.com/zaxchaxs)
 
 <!-- [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
