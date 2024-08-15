@@ -20,7 +20,6 @@ Currently doing my thing at one of the universities. I'm diving into the world o
 
 - 🌱 I’m currently learning React with Next.js.
 - 🏆 I'm trying to improve my coding and problem solving skills.
-- ⚡ Fun fact: I touched grass, at least once in a week.
 - 💻 My portfolio available at https://irzi-portfolio.vercel.app/
 
 </div>
