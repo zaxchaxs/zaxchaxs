@@ -26,7 +26,7 @@ Currently doing my thing at one of the universities. I'm diving into the world o
 
 ## My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,react,nextjs,mysql,git,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,react,nextjs,mysql,git)](https://skillicons.dev)
 
 ## My Stats
 
