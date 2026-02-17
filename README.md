@@ -30,10 +30,11 @@ Currently doing my thing at one of the universities. I'm diving into the world o
 
 ## My Stats
 
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zaxchaxs&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaxchaxs&layout=compact&theme=dark" />&nbsp;&nbsp;
-</p>
+<div align="center" display="flex">
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zaxchaxs&theme=dark" alt="GitHub Streak" /></a>
+   
+   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zaxchaxs&layout=compact&theme=radical)
+</div>
 
 ## A Quote
 
